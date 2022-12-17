@@ -402,3 +402,51 @@ nav{
     padding: 10px 25px;
     border: 0;
 }
+.h2__h2{
+    text-align: center;
+    margin-top: 150px;
+}
+.pi__4{
+    text-align: center;
+}
+.div4{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.divlar4 img{
+    margin-top: 50px;
+}
+.oxiri{
+    margin-top: 150px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #02897A;
+    border-radius: 32px;
+    width: 968px;
+}
+.but4{
+    margin-top: 98px;
+    padding: 13px 35px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 30px;
+    color: #02897A;
+    background: #FFFFFF;
+    border-radius: 8px;
+}
+.oxiri-chap h1{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 151.4%;
+    color: #FFFFFF;
+
+}
+.oxiri-chap{
+    margin-left: 50px;
+}
