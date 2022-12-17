@@ -418,6 +418,7 @@ nav{
     margin-top: 50px;
 }
 .oxiri{
+    margin: 0 auto;
     margin-top: 150px;
     display: flex;
     align-items: center;
@@ -449,4 +450,27 @@ nav{
 }
 .oxiri-chap{
     margin-left: 50px;
+}
+.oxiri77{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 150px;
+}
+.text__button{
+    padding: 8px 15px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    border: 0;
+    background: #02897A;
+    border-radius: 4px;
+    line-height: 24px;
+    text-align: center;
+    color: #FFFFFF;
+}
+.taaagi{
+    margin-top: 37px;
+    text-align: center;
 }
